@@ -1216,14 +1216,11 @@ tagsInput.run(["$templateCache", function($templateCache) {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-04-20 09:56:02</sys_created_on>
         <sys_id>b6ac8b75f89621107f442a5efadaa100</sys_id>
-        <sys_mod_count>2</sys_mod_count>
         <sys_name>x_snc_cloudevents.ng-tags-input.js</sys_name>
         <sys_package display_value="Cloud Dimensions Events" source="x_snc_cloudevents">77108b70610813007f44e59882b97a67</sys_package>
         <sys_policy/>
         <sys_scope display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</sys_scope>
         <sys_update_name>sys_ui_script_b6ac8b75f89621107f442a5efadaa100</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-04-20 10:02:37</sys_updated_on>
         <ui_type>1</ui_type>
         <use_scoped_format>false</use_scoped_format>
     </sys_ui_script>

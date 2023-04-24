@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Cloud Events Home - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="cde_index">7ec9c1692c9221107f447b1843aadb2a</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 05:39:56</sys_created_on>
+        <sys_id>3ec9c1692c9221107f447b1843aadb2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cloud Events Home - Container 1</sys_name>
+        <sys_package display_value="Cloud Dimensions Events" source="x_snc_cloudevents">77108b70610813007f44e59882b97a67</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</sys_scope>
+        <sys_update_name>sp_container_3ec9c1692c9221107f447b1843aadb2d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 05:39:56</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</application>
+        <file_path/>
+        <instance_id>caf663418716299837e243b4dabb3597</instance_id>
+        <instance_name>spa-apr-2529-005</instance_name>
+        <name>sp_container_3ec9c1692c9221107f447b1843aadb2d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Cloud Events Home - Container 1</name><order>1</order><sp_page display_value="cde_index">7ec9c1692c9221107f447b1843aadb2a</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-19 05:39:56</sys_created_on><sys_id>3ec9c1692c9221107f447b1843aadb2d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cloud Events Home - Container 1</sys_name><sys_package display_value="Cloud Dimensions Events" source="x_snc_cloudevents">77108b70610813007f44e59882b97a67</sys_package><sys_policy/><sys_scope display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</sys_scope><sys_update_name>sp_container_3ec9c1692c9221107f447b1843aadb2d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-19 05:39:56</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>1584386590</payload_hash>
+        <record_name>Cloud Events Home - Container 1</record_name>
+        <reverted_from/>
+        <source>7a488de52c9221107f447b1843aadbc4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 05:39:57</sys_created_on>
+        <sys_id>32c989692c9221107f447b1843aadbf6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1879806d4390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 05:39:57</sys_updated_on>
+        <type>Container</type>
+        <update_guid>7ac9c1690a9221107b77d0b9652cab2f</update_guid>
+        <update_guid_history>7ac9c1690a9221107b77d0b9652cab2f:1584386590</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Cloud Events Home - Container 1">13f9cd692c9221107f447b1843aadbdc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 05:40:48</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>50df12d0ebec4ba6966064e92d0b5744</sys_id>
+        <sys_metadata>3ec9c1692c9221107f447b1843aadb2d</sys_metadata>
+        <sys_name>Cloud Events Home - Container 1</sys_name>
+        <sys_package display_value="Cloud Dimensions Events" source="x_snc_cloudevents">77108b70610813007f44e59882b97a67</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</sys_scope>
+        <sys_scope_delete display_value="">138146ecda3441d3867e598472462431</sys_scope_delete>
+        <sys_update_name>sp_container_3ec9c1692c9221107f447b1843aadb2d</sys_update_name>
+        <sys_update_version display_value="sp_container_3ec9c1692c9221107f447b1843aadb2d">32c989692c9221107f447b1843aadbf6</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

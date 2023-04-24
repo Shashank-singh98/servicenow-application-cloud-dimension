@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <sp_column display_value="1">8dd905692c9221107f447b1843aadb47</sp_column>
+        <sp_container/>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 05:40:14</sys_created_on>
+        <sys_id>0fd94d292c9221107f447b1843aadba2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Cloud Dimensions Events" source="x_snc_cloudevents">77108b70610813007f44e59882b97a67</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</sys_scope>
+        <sys_update_name>sp_row_0fd94d292c9221107f447b1843aadba2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 05:40:14</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</application>
+        <file_path/>
+        <instance_id>caf663418716299837e243b4dabb3597</instance_id>
+        <instance_name>spa-apr-2529-005</instance_name>
+        <name>sp_row_0fd94d292c9221107f447b1843aadba2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><sp_column display_value="1">8dd905692c9221107f447b1843aadb47</sp_column><sp_container/><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-19 05:40:14</sys_created_on><sys_id>0fd94d292c9221107f447b1843aadba2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Cloud Dimensions Events" source="x_snc_cloudevents">77108b70610813007f44e59882b97a67</sys_package><sys_policy/><sys_scope display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</sys_scope><sys_update_name>sp_row_0fd94d292c9221107f447b1843aadba2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-19 05:40:14</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>1951120380</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>7a488de52c9221107f447b1843aadbc4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 05:40:14</sys_created_on>
+        <sys_id>07d94d292c9221107f447b1843aadba4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187980716aa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 05:40:14</sys_updated_on>
+        <type>Row</type>
+        <update_guid>4fd94d2902922110d9f1ff39f94253a3</update_guid>
+        <update_guid_history>4fd94d2902922110d9f1ff39f94253a3:1951120380</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">57f9cd692c9221107f447b1843aadbd4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 05:40:48</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>6656ef01252a470089c2445ab8163a10</sys_id>
+        <sys_metadata>0fd94d292c9221107f447b1843aadba2</sys_metadata>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Cloud Dimensions Events" source="x_snc_cloudevents">77108b70610813007f44e59882b97a67</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</sys_scope>
+        <sys_scope_delete display_value="">138146ecda3441d3867e598472462431</sys_scope_delete>
+        <sys_update_name>sp_row_0fd94d292c9221107f447b1843aadba2</sys_update_name>
+        <sys_update_version display_value="sp_row_0fd94d292c9221107f447b1843aadba2">07d94d292c9221107f447b1843aadba4</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

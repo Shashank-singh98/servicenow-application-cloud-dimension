@@ -151,14 +151,11 @@ return isNoDuplicate;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-04-19 07:59:21</sys_created_on>
         <sys_id>fcb969e12cd221107f447b1843aadbf2</sys_id>
-        <sys_mod_count>20</sys_mod_count>
         <sys_name>Registration Form</sys_name>
         <sys_package display_value="Cloud Dimensions Events" source="x_snc_cloudevents">77108b70610813007f44e59882b97a67</sys_package>
         <sys_policy/>
         <sys_scope display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</sys_scope>
         <sys_update_name>sp_widget_fcb969e12cd221107f447b1843aadbf2</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-04-21 06:44:04</sys_updated_on>
         <template><![CDATA[<form name="registration" class="form-horizontal cloud-widgets" novalidate ng-submit="c.submitForm(registration.$valid)">
   
   <!-- Step 2. Display initial data from the server -->
